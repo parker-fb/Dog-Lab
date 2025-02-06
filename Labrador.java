@@ -13,10 +13,10 @@ public class Labrador extends Dog
     private String color; //black, yellow, or chocolate?
     
 
-    public Labrador(String name,  String color)
+    public Labrador(String name,  String color, int age)
     {
         //did not use name variable and need to fill parent constructor
-        super(name);
+        super(name, age);
 	this.color = color;
     }
 

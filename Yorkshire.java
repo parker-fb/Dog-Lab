@@ -11,9 +11,9 @@ public class Yorkshire extends Dog
 {
     protected int size;  //1 is smallest, 5 is largest
      
-    public Yorkshire(String name, int size)
+    public Yorkshire(String name, int size, int age)
     {
-	super(name);
+	super(name, age);
 	this.size = size;
     }
 
