@@ -1,9 +1,3 @@
-// ****************************************************************
-// DogTest.java
-//
-// A simple test class that creates a Dog and makes it speak.
-//          
-// ****************************************************************
 
 
 import java.util.ArrayList;

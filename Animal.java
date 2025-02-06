@@ -12,8 +12,8 @@ public abstract class Animal {
         }
 
 
-        public void setAge(int a){
-            age = a;
+        public void setAge(int age){
+            this.age = age;
         }
 
         public int getAge(){

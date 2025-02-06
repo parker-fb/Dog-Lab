@@ -31,7 +31,7 @@ public class Dog extends Animal
     // ------------------------------------------------------------
     public String bark()
     {
-	return "Dog barking";
+	return "Dog is barking";
     }
 
 

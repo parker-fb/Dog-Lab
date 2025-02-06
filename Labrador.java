@@ -28,7 +28,7 @@ public class Labrador extends Dog
 
     public void waddle()
     {
-        System.out.println(name + " is doing a Lab waddle");
+        System.out.println(name + " is doing a Lab waddle ");
     }
 
 }
